@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.1,
   "cars": [
     {"make": "Ford", "model": "Fiesta", "trim": "1.0 EcoBoost 125", "yearFrom": 2017, "yearTo": 2023, "powerBhp": 123, "torqueNm": 170, "zeroToSixtySec": 9.4, "topSpeedMph": 121, "engineCapacityCc": 998, "cylinders": 3, "fuelType": "Petrol", "transmission": "Manual", "driveType": "FWD", "mpg": 52.3, "co2GPerKm": 122, "insuranceGroup": 12},
     {"make": "Ford", "model": "Fiesta ST", "yearFrom": 2018, "yearTo": 2023, "powerBhp": 197, "torqueNm": 290, "zeroToSixtySec": 6.5, "topSpeedMph": 144, "engineCapacityCc": 1497, "cylinders": 3, "fuelType": "Petrol", "transmission": "Manual", "driveType": "FWD", "mpg": 40.4, "co2GPerKm": 158, "insuranceGroup": 28},
